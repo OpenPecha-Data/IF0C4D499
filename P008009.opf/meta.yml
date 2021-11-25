@@ -1,5 +1,7 @@
 id: P008009
 initial_creation_type: ocr
+created_at: 24/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W2CZ7977
   title: ནམ་མཁའ་རྒྱལ་མཚན་གྱི་གསང་བའི་རྣམ་ཐར་ལུང་བསྟན་དང་བཅས་པ
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 40
       base_file: v001.txt
-ebook_metadata:
-  title: ནམ་མཁའ་རྒྱལ་མཚན་གྱི་གསང་བའི་རྣམ་ཐར་ལུང་བསྟན་དང་བཅས་པ
-  author: ''
-  sku: P008009
-  cover: cover.jpg
-  layers:
-  - pagination
